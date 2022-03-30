@@ -15,5 +15,6 @@
 - **INSERT INTO** _Table1 (id,first_name,last_name)_ SELECT (_id,first_name,last_name_) FROM _Table2_
 
 
-## Veiws
+## Views
+A view is a virtual table which is a result of a query. They can be used to create virtual tables of complex queries.
 
